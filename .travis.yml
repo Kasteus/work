@@ -19,4 +19,4 @@ matrix:
             - clang-3.8
           sources: *sources
           
-script: "bash -c ./bash.sh"
+script: "bash -c ./build.sh"
