@@ -7,6 +7,6 @@ using namespace std;
 int main()
 {
     cout << "Hello World!" << endl;
-    assert(2==1);
+    assert(2==2);
     return 0;
 }
